@@ -1,3 +1,5 @@
+sudo apt install gcc
+
 gcc temp.c -o temp
 
 sudo mv ./temp /usr/local/bin/
